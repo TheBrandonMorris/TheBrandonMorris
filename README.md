@@ -7,13 +7,14 @@ Huntsville, Al                     @TheBrandonMorris
 Secret Clearance                      (202) 417-6725
 -------------------     ----------------------------
 
-Education
+Certificates and Degrees
 ---------
+2020
+: **CompTIA Security+**
 
 2014-2019 
 :   **BSc, Computer Information Systems**; Jacksonville State University (Jacksonville, Al)
 
-    *Computer Security, Networking, Data Information & Forensics, Software Development, Database Administration, Infrastructure Security*
 
 
 Experience
